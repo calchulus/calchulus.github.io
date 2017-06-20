@@ -716,7 +716,7 @@ h8 {
 		position: relative;
 		max-width: 100%;
 		min-width: 27em;
-		padding: 4.5em 3em 3em 3em ;
+		padding: 2.5em 3em 2em 3em ;
 		background: #ffffff;
 		border-radius: 4px;
 		cursor: default;
@@ -738,6 +738,7 @@ h8 {
 
 		#main .avatar {
 			position: relative;
+            vertical-align: -10px;
 			display: block;
 			margin-bottom: 1.5em;
 		}
