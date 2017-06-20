@@ -188,7 +188,7 @@
 	h1, h2, h3, h4, h5, h6 {
 		color: #313f47;
 		line-height: 1.5;
-		margin: 0 0 0.75em 0;
+		margin: 0 0 0.35em 0;
 	}
 
 
@@ -210,7 +210,7 @@ h8 {
 	h1 {
 		font-size: 1.85em;
 		letter-spacing: 0.22em;
-		margin: 0 0 0.525em 0;
+		margin: 0 0 0.225em 0;
 	}
 
 	h2 {
