@@ -192,7 +192,10 @@
 	}
 
 
-
+h7 {
+		margin: 0 0 1.5em 0;
+        text-transform: none
+	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 			color: inherit;
