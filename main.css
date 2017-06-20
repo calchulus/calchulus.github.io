@@ -230,7 +230,7 @@ h8 {
 	}
 
 	h6 {
-		font-size: 1em;
+		font-size: .5em;
 	}
 
 	@media screen and (max-width: 480px) {
@@ -711,6 +711,11 @@ h8 {
 		}
 
 /* Main */
+
+ br {
+    line-height: 5px;
+ }
+
 
 	#main {
 		position: relative;
